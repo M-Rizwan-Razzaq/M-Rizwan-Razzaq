@@ -1,4 +1,5 @@
 Greetings folks! 👋 My name is Rizwan Razzaq
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a graduating Software Engineer
 I am a passionate MERN Stack Web Developer with expertise in creating dynamic and scalable web applications. Currently based in Bahawalpur, Pakistan, I focus on delivering innovative solutions using MongoDB, Express.js, React.js, and Node.js.
 
 🌍 Location
