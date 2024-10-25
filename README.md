@@ -12,7 +12,7 @@ Bahawalpur, Pakistan
 Phone: +923066592403 <br/>
 Email: muhammad.rizwan.razzaq56@gmail.com <br/>
 💼 Current Role <br/>
-Working as a Full Stack Web Developer at Code Thinkers, building scalable software solutions in healthcare industry. I am also offering my services as an assistant for researchers who need to write code for their papers and theses.
+Working as a Full Stack Web Developer at Codings First, building scalable software solutions in healthcare industry. I am also offering my services as an assistant for researchers who need to write code for their papers and theses.
 <br/>
 💬 Connect with me:
 <ul>
