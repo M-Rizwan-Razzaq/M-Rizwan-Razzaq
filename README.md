@@ -3,16 +3,16 @@ Greetings folks! 👋 My name is Rizwan Razzaq
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a graduating Software Engineer
 </br></br>
-I am a passionate MERN Stack Web Developer with expertise in creating dynamic and scalable web applications. Currently based in Bahawalpur, Pakistan, I focus on delivering innovative solutions using MongoDB, Express.js, React.js, and Node.js.
+I am a passionate MERN Stack Web Developer with expertise in creating dynamic and scalable web applications. Currently based in Lahore, Pakistan, I focus on delivering innovative solutions using MongoDB, Express.js, React.js, Angular and Node.js.
 
 🌍 Location
-Bahawalpur, Pakistan
+Lahore, Pakistan
 
 📞 Contact
 Phone: +923066592403 <br/>
 Email: muhammad.rizwan.razzaq56@gmail.com <br/>
 💼 Current Role <br/>
-Working as a Full Stack Web Developer at <b>Tech Crusade </b>, building scalable software solutions in industry. I am also offering my services as an assistant for researchers who need to write code for their papers and theses.
+Working as a Full Stack Web Developer at <b>Tech Crusades </b>, building scalable software solutions in industry. I am also offering my services as an assistant for researchers who need to write code for their papers and theses.
 <br/>
 💬 Connect with me:
 <ul>
