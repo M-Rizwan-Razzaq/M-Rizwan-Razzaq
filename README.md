@@ -26,7 +26,7 @@ Working as a Full Stack Web Developer at <b>Tech Crusades </b>, building scalabl
 
 📝 My Work
 <br/>
-<a href="https://mrizwandev.vercel.app/" target="_blank" rel="noreferrer">Check out my portfolio</a>
+<a href="https://rizwanrazzaq.vercel.app/" target="_blank" rel="noreferrer">Check out my portfolio</a>
 
 
 📊 Currently Working on Languages:<br/>
