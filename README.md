@@ -40,19 +40,28 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Rizwan-Razzaq&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Rizwan-Razzaq&theme=tokyonight&hide_border=true" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=M-Rizwan-Razzaq&show_icons=true&theme=tokyonight&hide_border=true" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=M-Rizwan-Razzaq&show_icons=true&theme=tokyonight&hide_border=true&v=2" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Rizwan-Razzaq&theme=tokyonight&hide_border=true" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Rizwan-Razzaq&theme=tokyonight&hide_border=true&v=2" />
 </p>
 
 ---
 
 ## 🔥 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Rizwan-Razzaq&bg_color=0f172a&color=D4AF37&line=D4AF37&point=ffffff&hide_border=true" />
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Rizwan-Razzaq&bg_color=0f172a&color=D4AF37&line=D4AF37&point=ffffff&hide_border=true" /> -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Rizwan-Razzaq&bg_color=0f172a&color=D4AF37&line=D4AF37&point=ffffff&hide_border=true&v=2" />
 </p>
 
 ---
 
+## ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
 ## 🤝 Let's Connect
 <p align="center">
   💼 Open for Freelance & Remote Opportunities <br/>
