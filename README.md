@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=D4AF37&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;MERN+%2B+Angular+%2B+NestJS;Building+Scalable+Web+Apps;Clean+Code+%7C+Modern+UI" />
+  <img src="https://readme-typing-svg.demolab.com?color=D4AF37&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;MERN+%2B+Angular+%2B+NestJS;Building+Scalable+Web+Apps;Clean+Code+%7C+Modern+UI" />
 </p>
 
 ---
@@ -40,15 +40,15 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Rizwan-Razzaq&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api?username=M-Rizwan-Razzaq&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://streak-stats.demolab.com?user=M-Rizwan-Razzaq&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 Activity Graph
+## 📈 Contribution Overview
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Rizwan-Razzaq&bg_color=0f172a&color=D4AF37&line=D4AF37&point=ffffff&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-Rizwan-Razzaq&theme=tokyonight" />
 </p>
 
 ---
